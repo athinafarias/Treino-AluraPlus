@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Feito%20com-HTML&CSS-violet?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blueviolet" />
+  <img src="https://img.shields.io/badge/Status-Concluído-blueviolet" />
   <img src="https://img.shields.io/badge/Estudo-Alura-blue" />
 </p>
 
